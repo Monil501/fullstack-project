@@ -8,7 +8,7 @@ const Header = () => {
         <p>Choose from diverse menu featuring a delectable array of dishes with the crafted with the finest ingredients and culinaryexpertise.
             Our mission is to satisfy your cravings and elevate your dining experience.One delicious meal at time. 
         </p>
-        <button>View Menu</button>
+        {/* <button>View Menu</button> */}
       </div>
     </div>
   )
